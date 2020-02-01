@@ -5,8 +5,8 @@
  The program can be compiled in Visual Studio  
  Visual Studio project properties:  
  Default (empty) project  
- Configuration: Debug
- Platform: Win32
+ Configuration: Debug  
+ Platform: Win32  
  1)C/C++ -- General -- additional include directories
  $(ProjectDir)Dependencies\GLFW\include;$(ProjectDir)Dependencies\GLEW\include  
    
