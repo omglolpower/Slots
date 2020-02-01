@@ -4,9 +4,10 @@
 # Dependencies folder (from Dependencies archive) should be in solution directory
  The program can be compiled in Visual Studio  
  Visual Studio project properties:  
+ Default (empty) project
  Configuration: Debug
  Platform: Win32
- 1) C/C++ -- General -- additional include directories
+ 1)C/C++ -- General -- additional include directories
  $(ProjectDir)Dependencies\GLFW\include;$(ProjectDir)Dependencies\GLEW\include  
    
  2)C/C++ -- Preprocessor -- preprocessor definitions
